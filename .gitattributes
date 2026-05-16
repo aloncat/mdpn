@@ -1,0 +1,5 @@
+* text=auto
+
+data/**/*.pal binary
+data/index text eol=lf
+data/log.txt text eol=lf
