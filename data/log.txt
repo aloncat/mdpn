@@ -116,3 +116,13 @@
 [20-12-03 11:33:40] Found the smallest number 180,005,498 for step 93
 [20-12-03 11:33:40] Found the smallest number 800,067,199 for step 88
 [20-12-03 11:33:41] Searching done for all 9-digit numbers (~40.42% Lychrels)
+[20-12-03 11:33:41] Current search depth was changed to 195 steps
+[20-12-03 11:33:41] New RECORD found: number 1,005,499,526 for step 109
+[20-12-03 11:33:41] Found the smallest number 1,009,049,407 for step 101
+[20-12-03 11:33:41] Found the smallest number 1,050,027,948 for step 104
+[20-12-03 11:33:41] Found the smallest number 1,090,001,921 for step 99
+[20-12-03 11:33:41] Found the smallest number 1,304,199,693 for step 105
+[20-12-03 11:33:41] Found the smallest number 5,020,089,949 for step 108
+[20-12-03 11:33:41] Found the smallest number 7,007,009,909 for step 100
+[20-12-03 11:33:41] Found the smallest number 9,000,046,899 for step 103
+[20-12-03 11:33:41] Searching done for all 10-digit numbers (~49.61% Lychrels)
