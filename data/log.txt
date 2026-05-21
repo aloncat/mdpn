@@ -180,3 +180,8 @@
 [20-12-03 11:35:00] Found the smallest number 4,000,096,953,659 for step 139
 [20-12-03 11:35:08] Found the smallest number 6,000,008,476,379 for step 183
 [20-12-03 11:35:22] Searching done for all 13-digit numbers (~71.64% Lychrels)
+[20-12-03 11:35:22] Current search depth was changed to 250 steps
+[20-12-03 11:35:47] Found the smallest number 10,090,899,969,901 for step 138
+[20-12-03 11:36:21] Found the smallest number 14,104,229,999,995 for step 182
+[20-12-03 11:36:57] Found the smallest number 40,000,004,480,279 for step 181
+[20-12-03 11:37:30] Searching done for all 14-digit numbers (~77.17% Lychrels)

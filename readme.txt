@@ -30,3 +30,4 @@ Range              | Min step
 11-digit and below |	  1
 12-digit numbers   |	 14
 13-digit numbers   |	 32
+14-digit numbers   |	 51
