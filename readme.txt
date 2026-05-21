@@ -7,7 +7,9 @@ Project homepage:
 This repository contains the MDPN project database. To reduce the
 database size, starting from 12-digit range, delayed palindromes, which
 are resolved in less than 14 steps (RAA operations), are excluded from
-the database.
+the database. Similarly, there are no delayed palindromes in the 13-digit
+range (and above) that are resolved in less than 32 steps. And so on
+(see table below and screenshot 'stats.png' for details).
 However, it's guaranteed that for each step the database stores at least
 100,000 of the earliest base numbers and at least one billion (in total)
 of their kin numbers.
@@ -22,3 +24,9 @@ For contact information, please visit:
 Directory structure:
 --------------------
   data		Delayed palindromes database
+
+Range              | Min step
+-----------------------------
+11-digit and below |	  1
+12-digit numbers   |	 14
+13-digit numbers   |	 32
