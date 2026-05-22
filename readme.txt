@@ -32,3 +32,4 @@ Range              | Min step
 13-digit numbers   |	 32
 14-digit numbers   |	 51
 15-digit numbers   |	 61
+16-digit numbers   |	 80

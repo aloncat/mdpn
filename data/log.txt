@@ -219,3 +219,16 @@
 [20-12-03 11:54:12] Found the smallest number 890,000,023,937,399 for step 169
 [20-12-03 11:54:17] Found the smallest number 900,000,076,152,049 for step 178
 [20-12-03 11:55:05] Searching done for all 15-digit numbers (~81.41% Lychrels)
+[20-12-03 11:55:05] Current search depth was changed to 280 steps
+[20-12-03 11:55:52] Found the smallest number 1,000,002,899,436,401 for step 175
+[20-12-03 11:56:41] Found the smallest number 1,000,050,048,994,957 for step 194
+[20-12-03 11:57:10] Found the smallest number 1,000,100,396,492,200 for step 176
+[20-12-03 11:58:03] Found the smallest number 1,000,650,998,992,311 for step 168
+[20-12-03 11:58:18] Found the smallest number 1,000,803,019,495,711 for step 196
+[20-12-03 11:59:09] Found the smallest number 1,003,000,024,749,923 for step 195
+[20-12-03 12:02:17] Found the smallest number 1,030,020,097,997,900 for step 197
+[20-12-03 12:08:36] Found the smallest number 1,400,000,027,672,498 for step 177
+[20-12-03 12:09:11] Found the smallest number 1,421,000,069,679,996 for step 162
+[20-12-03 12:20:46] Found the smallest number 6,000,000,039,361,479 for step 161
+[20-12-03 12:23:09] Found the smallest number 7,090,000,039,309,919 for step 193
+[20-12-03 12:26:59] Searching done for all 16-digit numbers (~85.22% Lychrels)
